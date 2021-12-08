@@ -11,7 +11,7 @@ Python
 
 (Python Because It Was Programmed In Python LOL)
 
-# Repositories
+# Requirements
 
 discord.py
 
