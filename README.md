@@ -1,6 +1,4 @@
 
-This is a template for a discord bot.
-
 # install
 
 Visual Studio Code
