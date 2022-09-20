@@ -7,7 +7,7 @@
   - (Python Because It Was Programmed In Python LOL)
 
 - discord.py
-  -(To Work on Discord)
+  - (To Work on Discord)
 
 - commands
   - (To Run The Commands)
