@@ -1,13 +1,14 @@
 
 # Requirements
-- Visual Studio Code
+
+- Visual Studio Code -- (Opcional)
   - Visual Studio Code For You To Program
 
-- Python
+- Python -- (Required)
   - Python Because It Was Programmed In Python LOL
 
-- discord.py
+- discord.py -- (Required)
   - To Work on Discord
 
-- commands
+- commands -- (Required)
   - To Run The Commands
