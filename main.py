@@ -1,5 +1,6 @@
 
 import discord
+import token
 from discord.ext import commands
 
 client = commands.Bot(command_prefix = "youprefix", case_insensitive = True)
@@ -16,4 +17,4 @@ async def template(ctx):
 
 #event end  
 
-client.run('youtoken')
+client.run(token.token)
