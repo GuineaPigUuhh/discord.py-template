@@ -1,9 +1,10 @@
 
 import discord
-import token
+
+from config import token,prefix,insensitive
 from discord.ext import commands
 
-client = commands.Bot(command_prefix = "youprefix", case_insensitive = True)
+client = commands.Bot(command_prefix = prefix, case_insensitive = insensitive)
 
 #event start
 
@@ -17,4 +18,4 @@ async def template(ctx):
 
 #event end  
 
-client.run(token.token)
+client.run(token)
