@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ### Private settings:
-#### Create a file named `private_settings.py` in the `src` folder with this content
+#### Create a file named `private_settings.py` in the `src` folder with this content:
 ```python
 TOKEN='Your-Token-Here!'
 ```
