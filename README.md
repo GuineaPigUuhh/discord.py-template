@@ -1,13 +1,28 @@
-# Discord.py Template Bot
+# discord.py-template
+This is a template for a discord bot.
 
-## Getting Started
-1. configure your Bot in the config.py file
-2. Install the Requirements
-3. Launch the bot
+---
+<div align="center"> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" alt="Python" width=150/>
+<span style="font-size: 60; margin: 60;">X</span>
+<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width=150/>
+</div>
 
-## Requirements
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/)
+---
 
-[![Discord.py](https://img.shields.io/website?label=discord.py.com&style=for-the-badge&url=https://discordpy.readthedocs.io/en/stable/#getting-started)](https://discordpy.readthedocs.io/en/stable/#getting-started)
+## Configuring:
 
-# Thanks for looking at the repository!
+### Changing Settings:
+1. Enter the [**settings.py**](src/settings.py) file
+2. Change the values of the variables
+
+### Installing the requirements:
+```batch
+pip install -r requirements.txt
+```
+
+### Private settings:
+#### Create a file named `private_settings.py` in the `src` folder with this content
+```python
+TOKEN='Your-Token-Here!'
+```
