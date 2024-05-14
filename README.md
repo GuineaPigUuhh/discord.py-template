@@ -3,9 +3,10 @@ This is a template for a discord bot.
 
 ---
 <div align="center"> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" alt="Python" width=150/>
-<span style="font-size: 100; margin: 60;">X</span>
-<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width=150/>
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" margin=600 alt="Python" height=150/>
+<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height=150/>
+
 </div>
 
 ---
